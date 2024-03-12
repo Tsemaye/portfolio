@@ -1,6 +1,7 @@
 # Aspiring Data Analyst
 
 #### Technical Skills: SQL, Tableau, Excel
+#### LinkedIn: linkedin.com/in/charisoneyemi
 
 ## Education
 - BSc Management Information System | Covenant University (_2022_)								       		
