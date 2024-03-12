@@ -51,8 +51,6 @@ Within this section of my portfolio, I present an analysis of employee data, foc
 ### Accident Data Analysis
 ![Accident Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Accident%20Dashboard.png)
 
-https://docs.google.com/spreadsheets/d/1LsDCd7VM0gFJAOk7BHgbx9tr4MHMynHP/edit?usp=sharing&ouid=112931508352516459691&rtpof=true&sd=true
-
 Within this section of my portfolio, I present a detailed analysis of accident data, covering various dimensions such as accident severity, date, month, and year of occurrence, geographical location (latitude and longitude), light conditions, district area, number of casualties and vehicles involved, road surface conditions, road type, urban or rural area classification, weather conditions, and vehicle type. By examining these variables, I offer valuable insights into the patterns and factors contributing to accidents, facilitating a deeper understanding of road safety dynamics. This analysis aims to inform policy-making, urban planning, and public safety initiatives by identifying trends, risk factors, and potential interventions to mitigate the impact of accidents on communities and individuals.
 
 https://bit.ly/3uZrrTk
