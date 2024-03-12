@@ -29,7 +29,7 @@
 
 My portfolio delves into the analysis of the video game industry, exploring various dimensions such as top publishers by sales, global sales trends over the years, and detailed sales distribution across different platforms and regions including Europe, North America, and Japan. Through this analysis, I provide insights into market dynamics, platform preferences, and regional variations.
 
-/Users/caleboneyemi/Downloads/Video Games Sales Analysis Dashboard.png
+[!/Users/caleboneyemi/Downloads/Video Games Sales Analysis Dashboard.png]
 
 ### Global Sales & Genre Analysis
 [[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -37,7 +37,7 @@ My portfolio delves into the analysis of the video game industry, exploring vari
 
 In this section of my portfolio, I delve into the analysis of global video game sales, focusing specifically on the influence of genre preferences on sales trends.
 
-/Users/caleboneyemi/Downloads/Global Sales & Genre Analysis Dashboard.png
+[!/Users/caleboneyemi/Downloads/Global Sales & Genre Analysis Dashboard.png]
 
 ### Employee Data Analysis
 [[[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -45,7 +45,7 @@ In this section of my portfolio, I delve into the analysis of global video game 
 
 Within this section of my portfolio, I present an analysis of employee data, focusing on key aspects such as manager salary distribution, manager age distribution, and salary distribution by job title. 
 
-/Users/caleboneyemi/Downloads/Employee Dashboard 1.png
+[!/Users/caleboneyemi/Downloads/Employee Dashboard 1.png]
 
 ## EXCEL Projects
 ### Accident Data Analysis
@@ -53,14 +53,14 @@ https://docs.google.com/spreadsheets/d/1LsDCd7VM0gFJAOk7BHgbx9tr4MHMynHP/edit?us
 
 Within this section of my portfolio, I present a detailed analysis of accident data, covering various dimensions such as accident severity, date, month, and year of occurrence, geographical location (latitude and longitude), light conditions, district area, number of casualties and vehicles involved, road surface conditions, road type, urban or rural area classification, weather conditions, and vehicle type. By examining these variables, I offer valuable insights into the patterns and factors contributing to accidents, facilitating a deeper understanding of road safety dynamics. This analysis aims to inform policy-making, urban planning, and public safety initiatives by identifying trends, risk factors, and potential interventions to mitigate the impact of accidents on communities and individuals.
 
-/Users/caleboneyemi/Desktop/Screenshot 2024-03-12 at 01.11.58.png
+[!/Users/caleboneyemi/Desktop/Screenshot 2024-03-12 at 01.11.58.png]
 
 ### Coffee Sales Analysis
 https://docs.google.com/spreadsheets/d/14NWTGYkbJWftGC4doudAYGOYLOgIpx7O/edit?usp=sharing&ouid=112931508352516459691&rtpof=true&sd=true
 
 Within this section of my portfolio, I delve into the detailed analysis of coffee sales data, encompassing various aspects such as product ID, coffee type, roast type, size... This analysis provides valuable insights for coffee businesses, retailers, and distributors to optimize their product offerings, pricing strategies, and marketing initiatives, ultimately enhancing customer satisfaction and driving business growth within the coffee industry.
 
-/Users/caleboneyemi/Desktop/Screenshot 2024-03-12 at 01.14.20.png
+[!/Users/caleboneyemi/Desktop/Screenshot 2024-03-12 at 01.14.20.png]
 
 ## SQL Projects
 ### Employee Data Analysis
