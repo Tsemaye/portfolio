@@ -52,6 +52,7 @@ Within this section of my portfolio, I present an analysis of employee data, foc
 ![Accident Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Accident%20Dashboard.png)
 
 Within this section of my portfolio, I present a detailed analysis of accident data, covering various dimensions such as accident severity, date, month, and year of occurrence, geographical location (latitude and longitude), light conditions, district area, number of casualties and vehicles involved, road surface conditions, road type, urban or rural area classification, weather conditions, and vehicle type. By examining these variables, I offer valuable insights into the patterns and factors contributing to accidents, facilitating a deeper understanding of road safety dynamics. This analysis aims to inform policy-making, urban planning, and public safety initiatives by identifying trends, risk factors, and potential interventions to mitigate the impact of accidents on communities and individuals.
+
 https://bit.ly/3uZrrTk
 
 
@@ -59,6 +60,7 @@ https://bit.ly/3uZrrTk
 ![Coffee Sales Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Coffee%20Sales%20Dashboard.png)
 
 Within this section of my portfolio, I delve into the detailed analysis of coffee sales data, encompassing various aspects such as product ID, coffee type, roast type, size... This analysis provides valuable insights for coffee businesses, retailers, and distributors to optimize their product offerings, pricing strategies, and marketing initiatives, ultimately enhancing customer satisfaction and driving business growth within the coffee industry.
+
 https://bit.ly/3IyZ0Pe
 
 ## SQL Projects
