@@ -2,6 +2,8 @@
 
 #### Technical Skills: SQL, Tableau, Excel
 #### LinkedIn: linkedin.com/in/charisoneyemi
+#### Gmail: charisoneyemi@gmail.com
+
 
 ## Education
 - BSc Management Information System | Covenant University (_2022_)								       		
