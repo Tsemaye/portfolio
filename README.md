@@ -1,4 +1,4 @@
-# Aspiring Data Analyst
+# Data Science Intern
 
 #### Technical Skills: SQL, Tableau, Excel
 #### LinkedIn: linkedin.com/in/charisoneyemi
@@ -10,6 +10,22 @@
 
 
 ## Work Experience
+**Data Science Intern  @ LetsGrowMore (_May 2024_)**
+Start Date: May 2024
+- To complete the following Machine Learning projects as part of the Let's Grow More Virtual Internship Program:
+  -  Iris Flowers Classification ML Project
+  -  Stock Market Prediction And Forecasting using Stacked LSTM
+  -  Music Recommendation System
+- To conduct Exploratory Data Analysis (EDA) on the Terrorism dataset to identify hot zones of terrorism.
+- To develop a Decision Tree classifier and visualize it graphically for predicting classes of new data
+- To complete Advanced Level Tasks:
+  -  Handwritten Digit Classification using Neural Network
+  -  Next Word Prediction using RNN
+  -  Handwritten Equation Solver using CNN
+  -  Facial Recognition for Mood Detection and Music Recommendation
+
+
+
 **NYSC Technology Instructor  @ Government of Nigeria (_June 2022 - May 2023_)**
 - Cultivated a positive and collaborative classroom environment, promoting a conducive learning atmosphere.
 - Delivered comprehensive instruction to students on basic technology concepts and skills.
@@ -20,10 +36,9 @@
 **Administrative and Analyst Intern @ Quantum Business School (_June 2020 - Nov 2020_)**
 - Cleaning and analyzing student data on Excel
 - Customer support
+- Answering phone calls
+- Sales
 - Scheduling appointments and meetings
-- Created visualizations to communicate analyzed student data to stakeholders
-- Made suggestions to stakeholders based on analyzed data
-- Analyzed historical data to indicate key properties of converted users
 
 ## TABLEAU Projects
 ### Video Game Analysis
