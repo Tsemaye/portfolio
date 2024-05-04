@@ -1,4 +1,4 @@
-# Aspiring Data Scientist
+# Data Analyst
 
 #### Technical Skills: SQL, Tableau, Excel, Python
 #### LinkedIn: linkedin.com/in/charisoneyemi
