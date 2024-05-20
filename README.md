@@ -12,17 +12,21 @@
 ## Work Experience
 **NYSC Technology Instructor  @ Government of Nigeria (_June 2022 - May 2023_)**
 - Cultivated a positive and collaborative classroom environment, promoting a conducive learning atmosphere.
-- Delivered comprehensive instruction to students on basic technology concepts and skills.
+
+- Delivered comprehensive instruction to over 200 students on basic technology concepts and skills.
+
 - Collaborated with colleagues and parents, facilitating effective communication and contributing to student development.
-- Provided support to students in utilizing educational websites or learning platforms for accessing interactive learning materials and practice exercises.
-- Offered guidance on effective use of search engines to find age- appropriate and reliable information for research projects.
+
+- Guided students in utilizing educational websites and search engines for homework and projects.
 
 **Administrative and Analyst Intern @ Quantum Business School (_June 2020 - Nov 2020_)**
-- Cleaning and analyzing student data on Excel
-- Customer support
-- Answering phone calls
-- Sales
-- Scheduling appointments and meetings
+- Cleaned and analyzed student data using Excel, identifying key trends in academic performance.
+
+- Provided customer support, ensuring timely and effective resolution of inquiries.
+
+- Managed sales inquiries and scheduled appointments, enhancing overall operational efficiency.
+
+- Assisted in administrative tasks, improving office workflow and communication.
 
 ## TABLEAU Projects
 ### Video Game Analysis
