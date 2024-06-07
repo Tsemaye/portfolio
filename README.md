@@ -10,7 +10,7 @@
 
 
 ## Work Experience
-**NYSC Technology Instructor  @ Government of Nigeria (_June 2022 - May 2023_)**
+**NYSC Basic Technology Instructor/Teacher  @ Government of Nigeria (_June 2022 - May 2023_)**
 - Cultivated a positive and collaborative classroom environment, promoting a conducive learning atmosphere.
 
 - Delivered comprehensive instruction to over 200 students on basic technology concepts and skills.
