@@ -32,14 +32,18 @@
 ### Video Game Analysis
 ![Video Games Sales Analysis Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
 
-
 My portfolio delves into the analysis of the video game industry, exploring various dimensions such as top publishers by sales, global sales trends over the years, and detailed sales distribution across different platforms and regions including Europe, North America, and Japan. Through this analysis, I provide insights into market dynamics, platform preferences, and regional variations.
 [[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 ](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/VideoGameAnalysis_17101490196120/VideoGamesSalesAnalysisDashboard)
 
+### Legal Services Analysis
+![Law Dashboard](https://github.com/Tsemaye/portfolio/blob/main/Law%20Dashboard.png)
+
+The Legal Services Analysis dashboard shows the data of a sample company which specialises in legal services. All the data used was created by me and all queries were written in SQL by me.
+https://public.tableau.com/app/profile/charis.oneyemi7497/viz/LawDashboard_17108603340770/Dashboard1
+
 ### Global Sales & Genre Analysis
 ![Global Sales & Genre Analysis Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Global%20Sales%20%26%20Genre%20Analysis%20Dashboard.png)
-
 
 In this section of my portfolio, I delve into the analysis of global video game sales, focusing specifically on the influence of genre preferences on sales trends.
 [[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
