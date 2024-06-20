@@ -33,7 +33,7 @@
 ![Video Games Sales Analysis Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
 
 My portfolio delves into the analysis of the video game industry, exploring various dimensions such as top publishers by sales, global sales trends over the years, and detailed sales distribution across different platforms and regions including Europe, North America, and Japan. Through this analysis, I provide insights into market dynamics, platform preferences, and regional variations.
-[Video Game Analysis] (https://public.tableau.com/app/profile/charis.oneyemi7497/viz/VideoGameAnalysis_17101490196120/VideoGamesSalesAnalysisDashboard)
+[Video Game Analysis] (https://public.tableau.com/views/VideoGameAnalysis_17101490196120/VideoGamesSalesAnalysisDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### Legal Services Analysis
 ![Law Dashboard](Law Dashboard.png)
