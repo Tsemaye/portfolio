@@ -40,7 +40,7 @@ My portfolio delves into the analysis of the video game industry, exploring vari
 ![Law Dashboard](https://github.com/Tsemaye/portfolio/blob/main/Law%20Dashboard.png)
 
 The Legal Services Analysis dashboard shows the data of a sample company which specialises in legal services. All the data used was created by me and all queries were written in SQL by me.
-https://public.tableau.com/app/profile/charis.oneyemi7497/viz/LawDashboard_17108603340770/Dashboard1
+[Legal Services Analysis](https://public.tableau.com/views/LawDashboard_17108603340770/Dashboard1)
 
 ### Global Sales & Genre Analysis
 ![Global Sales & Genre Analysis Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Global%20Sales%20%26%20Genre%20Analysis%20Dashboard.png)
