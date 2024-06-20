@@ -33,8 +33,7 @@
 ![Video Games Sales Analysis Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
 
 My portfolio delves into the analysis of the video game industry, exploring various dimensions such as top publishers by sales, global sales trends over the years, and detailed sales distribution across different platforms and regions including Europe, North America, and Japan. Through this analysis, I provide insights into market dynamics, platform preferences, and regional variations.
-[[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/VideoGameAnalysis_17101490196120/VideoGamesSalesAnalysisDashboard)
+![Video Game Analysis](https://public.tableau.com/views/VideoGameAnalysis_17101490196120/VideoGamesSalesAnalysisDashboard)
 
 ### Legal Services Analysis
 ![Law Dashboard](https://github.com/Tsemaye/portfolio/blob/main/Law%20Dashboard.png)
@@ -46,16 +45,14 @@ The Legal Services Analysis dashboard shows the data of a sample company which s
 ![Global Sales & Genre Analysis Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Global%20Sales%20%26%20Genre%20Analysis%20Dashboard.png)
 
 In this section of my portfolio, I delve into the analysis of global video game sales, focusing specifically on the influence of genre preferences on sales trends.
-[[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/GlobalSalesGenreAnalysis/GlobalSalesGenreAnalysisDashboard)
+![Global Sales Genre Analysis](https://public.tableau.com/views/GlobalSalesGenreAnalysis/GlobalSalesGenreAnalysisDashboard)
 
 
 ### Employee Data Analysis
 ![Employee Dashboard 1](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Employee%20Dashboard%201.png)
 
 Within this section of my portfolio, I present an analysis of employee data, focusing on key aspects such as manager salary distribution, manager age distribution, and salary distribution by job title. 
-[[[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/GlobalSalesGenreAnalysis/GlobalSalesGenreAnalysisDashboard)](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/EmployeeData_17101927496140/EmployeeDashboard1)
+![Employee Data Analysis](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/EmployeeData_17101927496140/EmployeeDashboard1)
 
 ## EXCEL Projects
 ### Accident Data Analysis
@@ -63,7 +60,7 @@ Within this section of my portfolio, I present an analysis of employee data, foc
 
 Within this section of my portfolio, I present a detailed analysis of accident data, covering various dimensions such as accident severity, date, month, and year of occurrence, geographical location (latitude and longitude), light conditions, district area, number of casualties and vehicles involved, road surface conditions, road type, urban or rural area classification, weather conditions, and vehicle type. By examining these variables, I offer valuable insights into the patterns and factors contributing to accidents, facilitating a deeper understanding of road safety dynamics. This analysis aims to inform policy-making, urban planning, and public safety initiatives by identifying trends, risk factors, and potential interventions to mitigate the impact of accidents on communities and individuals.
 
-https://bit.ly/3uZrrTk
+![Accident Data Analysis](https://bit.ly/3uZrrTk)
 
 
 ### Coffee Sales Analysis
@@ -71,12 +68,12 @@ https://bit.ly/3uZrrTk
 
 Within this section of my portfolio, I delve into the detailed analysis of coffee sales data, encompassing various aspects such as product ID, coffee type, roast type, size... This analysis provides valuable insights for coffee businesses, retailers, and distributors to optimize their product offerings, pricing strategies, and marketing initiatives, ultimately enhancing customer satisfaction and driving business growth within the coffee industry.
 
-https://bit.ly/3IyZ0Pe
+![Coffee Sales Analysis](https://bit.ly/3IyZ0Pe)
 
 ## SQL Projects
 ### Employee Data Analysis
 
-https://github.com/Tsemaye/SQL
+![Employee Data Analysis SQL code](https://github.com/Tsemaye/SQL)
 
 This portfolio section showcases a series of SQL queries and data analysis techniques applied to employee demographics and salary data. The queries retrieve specific subsets of data, perform data manipulation and aggregation, and utilize functions like JOIN, GROUP BY, and CASE statements to derive insights such as age distributions, gender ratios, job title frequencies, and salary adjustments. Through these queries, the portfolio demonstrates proficiency in SQL query writing, data filtering, aggregation, and transformation, highlighting the ability to extract meaningful insights from datasets and support data-driven decision-making processes.
 
