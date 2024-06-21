@@ -10,6 +10,16 @@
 
 
 ## Work Experience
+**Customer Support Volunteer  @ YouVersion (_June 2024 - Present_)**
+- Provided technical support to YouVersion users around the world, helping them navigate the Bible app and deepen their faith.
+
+- Troubleshooted app issues and answered user questions in a clear, concise, and patient manner.
+
+- Contributed to a positive user experience by ensuring users could effectively utilize YouVersion's features for daily Bible study and devotionals.
+
+- Supported a diverse community by providing technical support to diverse cultures and languages (including Arabic, Spanish, Portuguese, and Italian) to help them navigate the Bible app and deepen their faith.
+
+
 **NYSC Basic Technology Instructor/Teacher  @ Government of Nigeria (_June 2022 - May 2023_)**
 - Cultivated a positive and collaborative classroom environment, promoting a conducive learning atmosphere.
 
@@ -18,6 +28,7 @@
 - Collaborated with colleagues and parents, facilitating effective communication and contributing to student development.
 
 - Guided students in utilizing educational websites and search engines for homework and projects.
+
 
 **Administrative and Analyst Intern @ Quantum Business School (_June 2020 - Nov 2020_)**
 - Cleaned and analyzed student data using Excel, identifying key trends in academic performance.
