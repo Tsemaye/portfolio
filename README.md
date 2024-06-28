@@ -47,7 +47,7 @@
 
 ## TABLEAU Projects
 ### Retail Sales Data Analysis: A First Glance
-![Retail Sales Data Analysis](https://github.com/Tsemaye/portfolio/blob/main/Retail%20Sales%20Data%20Analysis.png)
+![Retail Sales Data Analysis](Retail Sales Data Analysis.png)
 
 As part of the HNG data analytics internship, we were tasked with exploring a dataset and writing a technical report based on our findings. I chose the Retail Sales Dataset available on Kaggle, and the goal was to examine the data, identify initial trends, and communicate these findings effectively. This report presents my observations and initial analysis using a Tableau dashboard created to visualize the key aspects of the data.
 [Retail Sales Data Analysis](https://charisoneyemi.wordpress.com/2024/06/28/retail-sales-data-analysis-a-first-glance-2/)
