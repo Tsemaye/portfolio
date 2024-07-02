@@ -10,11 +10,6 @@
 
 
 ## Work Experience
-**Data Analyst Intern  @ HNG (_June 2024 - Present_)**
-- Applying data analysis skills to gain insights from datasets.
-
-- Currently exploring data cleaning techniques and data visualization tools.
-
   
 **Customer Support Volunteer  @ YouVersion (_June 2024 - Present_)**
 - Provided technical support to YouVersion users around the world, helping them navigate the Bible app and deepen their faith.
@@ -25,8 +20,8 @@
 
 - Supported a diverse community by providing technical support to diverse cultures to help them navigate the Bible app and deepen their faith.
 
-
-**NYSC Basic Technology Instructor/Teacher  @ Government of Nigeria (_June 2022 - May 2023_)**
+ 
+**NYSC Basic Technology Instructor/Teacher  @ Government of Nigeria - NYSC (_June 2022 - May 2023_)**
 - Cultivated a positive and collaborative classroom environment, promoting a conducive learning atmosphere.
 
 - Delivered comprehensive instruction to over 200 students on basic technology concepts and skills.
