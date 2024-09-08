@@ -1,4 +1,4 @@
-# Data Analyst
+# MSc Data Science Student | Aspiring Data Scientist | Machine Learning & Analytics Enthusiast
 
 #### Technical Skills: SQL, Tableau, Excel, Python
 #### LinkedIn: linkedin.com/in/charisoneyemi
@@ -11,7 +11,7 @@
 
 ## Work Experience
   
-**Customer Support Volunteer  @ YouVersion (_June 2024 - Present_)**
+**Product Support Volunteer  @ YouVersion (_June 2024 - Present_)**
 - Provided technical support to YouVersion users around the world, helping them navigate the Bible app and deepen their faith.
 
 - Troubleshooted app issues and answered user questions in a clear, concise, and patient manner.
