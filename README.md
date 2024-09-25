@@ -6,7 +6,9 @@
 
 
 ## Education
-- BSc Management Information System | Covenant University (_2022_)								       		
+- BSc Management Information System | Covenant University (2017-2022)
+- MSc Data Science | Pan Atlantic University (2024-2025)								       		
+					       		
 
 
 ## Work Experience
