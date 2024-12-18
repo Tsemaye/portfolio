@@ -18,7 +18,8 @@ As part of the HNG data analytics internship, we were tasked with exploring a da
 [Retail Sales Data Analysis](https://charisoneyemi.wordpress.com/2024/06/28/retail-sales-data-analysis-a-first-glance-2/)
 
 ### Video Game Analysis
-Video Games Sales Analysis Dashboard.png
+[Video Games Sales Analysis Dashboard.png
+](https://github.com/Tsemaye/portfolio/blob/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
 
 My portfolio delves into the analysis of the video game industry, exploring various dimensions such as top publishers by sales, global sales trends over the years, and detailed sales distribution across different platforms and regions including Europe, North America, and Japan. Through this analysis, I provide insights into market dynamics, platform preferences, and regional variations.
 [[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -31,7 +32,8 @@ The Legal Services Analysis dashboard shows the data of a sample company which s
 [Legal Services Analysis](https://public.tableau.com/views/LawDashboard_17108603340770/Dashboard1)
 
 ### Global Sales & Genre Analysis
-![Global Sales & Genre Analysis Dashboard] (Global Sales & Genre Analysis Dashboard.png)
+[![Global Sales & Genre Analysis Dashboard] (Global Sales & Genre Analysis Dashboard.png)
+](https://github.com/Tsemaye/portfolio/blob/main/Global%20Sales%20%26%20Genre%20Analysis%20Dashboard.png)
 
 In this section of my portfolio, I delve into the analysis of global video game sales, focusing specifically on the influence of genre preferences on sales trends.
 [[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -39,7 +41,8 @@ In this section of my portfolio, I delve into the analysis of global video game 
 
 
 ### Employee Data Analysis
-![Employee Dashboard 1] (Employee Dashboard 1.png)
+[![Employee Dashboard 1] (Employee Dashboard 1.png)
+](https://github.com/Tsemaye/portfolio/blob/main/Employee%20Dashboard%201.png)
 
 Within this section of my portfolio, I present an analysis of employee data, focusing on key aspects such as manager salary distribution, manager age distribution, and salary distribution by job title. 
 [[[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -47,7 +50,8 @@ Within this section of my portfolio, I present an analysis of employee data, foc
 
 ## EXCEL Projects
 ### Accident Data Analysis
-![Accident Dashboard](Accident Dashboard.png)
+[![Accident Dashboard](Accident Dashboard.png)
+](https://github.com/Tsemaye/portfolio/blob/main/Accident%20Dashboard.png)
 
 Within this section of my portfolio, I present a detailed analysis of accident data, covering various dimensions such as accident severity, date, month, and year of occurrence, geographical location (latitude and longitude), light conditions, district area, number of casualties and vehicles involved, road surface conditions, road type, urban or rural area classification, weather conditions, and vehicle type. By examining these variables, I offer valuable insights into the patterns and factors contributing to accidents, facilitating a deeper understanding of road safety dynamics. This analysis aims to inform policy-making, urban planning, and public safety initiatives by identifying trends, risk factors, and potential interventions to mitigate the impact of accidents on communities and individuals.
 
