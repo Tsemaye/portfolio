@@ -18,7 +18,7 @@ As part of the HNG data analytics internship, we were tasked with exploring a da
 [Retail Sales Data Analysis](https://charisoneyemi.wordpress.com/2024/06/28/retail-sales-data-analysis-a-first-glance-2/)
 
 ### Video Game Analysis
-![Video Games Sales Analysis Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
+Video Games Sales Analysis Dashboard.png
 
 My portfolio delves into the analysis of the video game industry, exploring various dimensions such as top publishers by sales, global sales trends over the years, and detailed sales distribution across different platforms and regions including Europe, North America, and Japan. Through this analysis, I provide insights into market dynamics, platform preferences, and regional variations.
 [[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -27,11 +27,11 @@ My portfolio delves into the analysis of the video game industry, exploring vari
 ### Legal Services Analysis
 ![Law Dashboard](Law Dashboard.png)
 
-The Legal Services Analysis dashboard shows the data of a sample company which specialises in legal services. All the data used was created by me and all queries were written in SQL by me.
+The Legal Services Analysis dashboard shows the data of a sample company which specialises in legal services.
 [Legal Services Analysis](https://public.tableau.com/views/LawDashboard_17108603340770/Dashboard1)
 
 ### Global Sales & Genre Analysis
-![Global Sales & Genre Analysis Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Global%20Sales%20%26%20Genre%20Analysis%20Dashboard.png)
+![Global Sales & Genre Analysis Dashboard] (Global Sales & Genre Analysis Dashboard.png)
 
 In this section of my portfolio, I delve into the analysis of global video game sales, focusing specifically on the influence of genre preferences on sales trends.
 [[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -39,7 +39,7 @@ In this section of my portfolio, I delve into the analysis of global video game 
 
 
 ### Employee Data Analysis
-![Employee Dashboard 1](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Employee%20Dashboard%201.png)
+![Employee Dashboard 1] (Employee Dashboard 1.png)
 
 Within this section of my portfolio, I present an analysis of employee data, focusing on key aspects such as manager salary distribution, manager age distribution, and salary distribution by job title. 
 [[[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -47,7 +47,7 @@ Within this section of my portfolio, I present an analysis of employee data, foc
 
 ## EXCEL Projects
 ### Accident Data Analysis
-![Accident Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Accident%20Dashboard.png)
+![Accident Dashboard](Accident Dashboard.png)
 
 Within this section of my portfolio, I present a detailed analysis of accident data, covering various dimensions such as accident severity, date, month, and year of occurrence, geographical location (latitude and longitude), light conditions, district area, number of casualties and vehicles involved, road surface conditions, road type, urban or rural area classification, weather conditions, and vehicle type. By examining these variables, I offer valuable insights into the patterns and factors contributing to accidents, facilitating a deeper understanding of road safety dynamics. This analysis aims to inform policy-making, urban planning, and public safety initiatives by identifying trends, risk factors, and potential interventions to mitigate the impact of accidents on communities and individuals.
 
@@ -55,7 +55,7 @@ https://bit.ly/3uZrrTk
 
 
 ### Coffee Sales Analysis
-![Coffee Sales Dashboard](https://raw.githubusercontent.com/Tsemaye/portfolio/main/Coffee%20Sales%20Dashboard.png)
+![Coffee Sales Dashboard](Coffee Sales Dashboard.png)
 
 Within this section of my portfolio, I delve into the detailed analysis of coffee sales data, encompassing various aspects such as product ID, coffee type, roast type, size... This analysis provides valuable insights for coffee businesses, retailers, and distributors to optimize their product offerings, pricing strategies, and marketing initiatives, ultimately enhancing customer satisfaction and driving business growth within the coffee industry.
 
