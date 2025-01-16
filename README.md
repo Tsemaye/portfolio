@@ -18,6 +18,10 @@ As part of the HNG data analytics internship, we were tasked with exploring a da
 [Retail Sales Data Analysis](https://charisoneyemi.wordpress.com/2024/06/28/retail-sales-data-analysis-a-first-glance-2/)
 
 ### Video Game Analysis
+![Video Games Sales Analysis Dashboard](Video Games Sales Analysis Dashboard.png)
+hi
+Video Games Sales Analysis Dashboard.png
+hi
 [Video Games Sales Analysis Dashboard.png
 ](https://github.com/Tsemaye/portfolio/blob/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
 
@@ -32,8 +36,7 @@ The Legal Services Analysis dashboard shows the data of a sample company which s
 [Legal Services Analysis](https://public.tableau.com/views/LawDashboard_17108603340770/Dashboard1)
 
 ### Global Sales & Genre Analysis
-[![Global Sales & Genre Analysis Dashboard] (Global Sales & Genre Analysis Dashboard.png)
-](https://github.com/Tsemaye/portfolio/blob/main/Global%20Sales%20%26%20Genre%20Analysis%20Dashboard.png)
+![Global Sales & Genre Analysis Dashboard](Global Sales & Genre Analysis Dashboard.png)
 
 In this section of my portfolio, I delve into the analysis of global video game sales, focusing specifically on the influence of genre preferences on sales trends.
 [[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
@@ -41,9 +44,7 @@ In this section of my portfolio, I delve into the analysis of global video game 
 
 
 ### Employee Data Analysis
-[![Employee Dashboard 1] (Employee Dashboard 1.png)
-](https://github.com/Tsemaye/portfolio/blob/main/Employee%20Dashboard%201.png)
-
+![Employee Dashboard 1](Employee Dashboard 1.png)
 Within this section of my portfolio, I present an analysis of employee data, focusing on key aspects such as manager salary distribution, manager age distribution, and salary distribution by job title. 
 [[[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 ](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/GlobalSalesGenreAnalysis/GlobalSalesGenreAnalysisDashboard)](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/EmployeeData_17101927496140/EmployeeDashboard1)
@@ -96,15 +97,11 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 - Guided students in utilizing educational websites and search engines for homework and projects.
 
 
-**Administrative and Analyst Intern @ Quantum Business School (_June 2020 - Nov 2020_)**
-- Cleaned and analyzed student data using Excel, identifying key trends in academic performance.
-
-- Provided customer support, ensuring timely and effective resolution of inquiries.
-
-- Managed sales inquiries and scheduled appointments, enhancing overall operational efficiency.
-
-- Assisted in administrative tasks, improving office workflow and communication.
-
+**Administrative Intern @ Quantum Business School (_June 2020 - Nov 2020_)**
+- Supported administrative tasks, including filing, document preparation, and office organization.
+- Scheduled and managed appointments to ensure smooth daily operations.
+- Responded to customer inquiries and provided general office assistance.
+- Assisted with day-to-day office workflow, contributing to a productive work environment.
 
 
 Thank You!
