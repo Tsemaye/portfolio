@@ -19,9 +19,7 @@ As part of the HNG data analytics internship, we were tasked with exploring a da
 
 ### Video Game Analysis
 ![Video Games Sales Analysis Dashboard](Video Games Sales Analysis Dashboard.png)
-hi
-Video Games Sales Analysis Dashboard.png
-hi
+
 [Video Games Sales Analysis Dashboard.png
 ](https://github.com/Tsemaye/portfolio/blob/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
 
