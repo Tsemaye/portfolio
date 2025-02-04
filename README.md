@@ -33,19 +33,6 @@ My portfolio delves into the analysis of the video game industry, exploring vari
 The Legal Services Analysis dashboard shows the data of a sample company which specialises in legal services.
 [Legal Services Analysis](https://public.tableau.com/views/LawDashboard_17108603340770/Dashboard1)
 
-### Global Sales & Genre Analysis
-![Global Sales & Genre Analysis Dashboard](Global Sales & Genre Analysis Dashboard.png)
-
-In this section of my portfolio, I delve into the analysis of global video game sales, focusing specifically on the influence of genre preferences on sales trends.
-[[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/GlobalSalesGenreAnalysis/GlobalSalesGenreAnalysisDashboard)
-
-
-### Employee Data Analysis
-![Employee Dashboard 1](Employee Dashboard 1.png)
-Within this section of my portfolio, I present an analysis of employee data, focusing on key aspects such as manager salary distribution, manager age distribution, and salary distribution by job title. 
-[[[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/GlobalSalesGenreAnalysis/GlobalSalesGenreAnalysisDashboard)](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/EmployeeData_17101927496140/EmployeeDashboard1)
 
 ## EXCEL Projects
 ### Accident Data Analysis
