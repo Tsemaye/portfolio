@@ -1,4 +1,4 @@
-# MSc Data Science Student | Aspiring Data Scientist | Machine Learning & Analytics Enthusiast
+# Isaiah 60 | MSc Data Science Student
 
 #### Technical Skills: SQL, Tableau, Excel, Python
 #### LinkedIn: linkedin.com/in/charisoneyemi
@@ -90,3 +90,4 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 
 
 Thank You!
+🌟Romans 1:16🌟
