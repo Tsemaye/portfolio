@@ -7,10 +7,13 @@
 
 ## Education
 - MSc Data Science | Pan Atlantic University (2024-2025)
-- BSc Management Information System | Covenant University (2017-2022)								       		
+- BSc Management Information System | Covenant University (2017-2022)
+
+
 ## PYTHON ML Projects
 ### Fraud Detection Model and Deployment
 ![model_deployment](model_deployment.png)
+
 For this project, I developed and deployed a fraud detection system using multiple machine learning models, including Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Naïve Bayes, Multi-Layer Perceptron (MLP), and XGBoost.
 
 Key Steps:
