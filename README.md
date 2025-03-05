@@ -8,7 +8,18 @@
 ## Education
 - MSc Data Science | Pan Atlantic University (2024-2025)
 - BSc Management Information System | Covenant University (2017-2022)								       		
-					       		
+## PYTHON ML Projects
+### Fraud Detection Model and Deployment
+![model_deployment](model_deployment.png)
+For this project, I developed and deployed a fraud detection system using multiple machine learning models, including Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Naïve Bayes, Multi-Layer Perceptron (MLP), and XGBoost.
+
+Key Steps:
+- Data Preparation: Processed a credit card transaction dataset to identify fraudulent activities.
+- Model Training: Trained multiple classifiers to detect fraud, optimizing them for accuracy and efficiency.
+- Model Evaluation: Compared model performances to determine the best approach.
+- Deployment: Built APIs using FastAPI and Flask to serve real-time fraud detection predictions.
+- Testing: Used Postman to validate the API responses.
+
 
 ## TABLEAU Projects
 ### Retail Sales Data Analysis: A First Glance
