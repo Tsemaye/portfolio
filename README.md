@@ -22,9 +22,7 @@ Key Steps:
 - Model Evaluation: Compared model performances to determine the best approach.
 - Deployment: Built APIs using FastAPI and Flask to serve real-time fraud detection predictions.
 - Testing: Used Postman to validate the API responses.
-[Python-Machine-Learning Model](https://github.com/Tsemaye/Python-Machine-Learning)
-
-https://github.com/Tsemaye/Python-Machine-Learning
+[Python Machine Learning Model](https://github.com/Tsemaye/Python-Machine-Learning)
 
 
 ## TABLEAU Projects
