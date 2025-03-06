@@ -1,4 +1,4 @@
-# Isaiah 60 | MSc Data Science Student
+# Isaiah 60 | Data Scientist | MSc Data Science Student
 
 #### Technical Skills: SQL, Tableau, Excel, Python
 #### LinkedIn: linkedin.com/in/charisoneyemi
