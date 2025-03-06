@@ -104,5 +104,3 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 - Assisted with day-to-day office workflow, contributing to a productive work environment.
 
 
-Thank You!
-🌟Romans 1:16🌟
