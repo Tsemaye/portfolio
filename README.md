@@ -1,4 +1,4 @@
-# Isaiah 60 | Data Scientist | MSc Data Science Student
+# Data Scientist | MSc Data Science Student
 
 #### Technical Skills: SQL, Tableau, Excel, Python
 #### LinkedIn: linkedin.com/in/charisoneyemi
@@ -103,4 +103,4 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 - Responded to customer inquiries and provided general office assistance.
 - Assisted with day-to-day office workflow, contributing to a productive work environment.
 
-
+Isaiah 60
