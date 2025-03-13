@@ -11,10 +11,10 @@
 
 
 ## PYTHON ML Projects
-### Fraud Detection Model and Deployment
+### Fraud Classification Model and Deployment
 ![model_deployment](model_deployment.png)
 
-For this project, I developed and deployed a fraud detection system using multiple machine learning models, including Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Naïve Bayes, Multi-Layer Perceptron (MLP), and XGBoost.
+For this project, I developed and deployed a fraud classification model using multiple machine learning models, including Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Naïve Bayes, Multi-Layer Perceptron (MLP), and XGBoost.
 
 Key Steps:
 - Data Preparation: Processed a credit card transaction dataset to identify fraudulent activities.
