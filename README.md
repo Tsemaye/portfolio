@@ -3,6 +3,8 @@
 #### Technical Skills: SQL, Tableau, Excel, Python
 #### LinkedIn: linkedin.com/in/charisoneyemi
 #### Gmail: charisoneyemi@gmail.com
+#### GitHub: https://github.com/Tsemaye
+
 
 
 ## Education
