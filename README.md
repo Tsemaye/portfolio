@@ -79,7 +79,7 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 
 ## Work Experience
   
-**App Support Volunteer  @ YouVersion (_June 2024 - Present_)**
+**Partner Support Volunteer  @ YouVersion (_June 2024 - Present_)**
 - Provided technical support to YouVersion users around the world, helping them navigate the Bible app and deepen their faith.
 
 - Troubleshooted app issues and answered user questions in a clear, concise, and patient manner.
