@@ -1,4 +1,4 @@
-# Data Scientist | MSc Data Science Student
+# Data Analyst | MSc Data Science Student
 
 #### Technical Skills: SQL, Tableau, Excel, Python
 #### LinkedIn: linkedin.com/in/charisoneyemi
