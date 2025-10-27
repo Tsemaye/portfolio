@@ -13,6 +13,16 @@
 
 
 ## PYTHON ML Projects
+
+### Behaviour Segmentation and Customer Lifetime Value Prediction in E-Commerce
+![model_deployment](model_deployment.png)
+In this project, I analysed six and a half years of Amazon customer purchase data from 5,027 customers to identify key behavioural patterns and predict customer lifetime value (CLV).
+
+Using K-Means clustering, I grouped customers into two main archetypes: Occasional Buyers and High Value Loyalists, and validated the clusters using Silhouette Score, Calinski Harabasz Index, and Davies Bouldin Index.
+
+I then applied a Random Forest regression model to predict CLV, achieving strong performance (R² = 0.94). The analysis showed that behavioural variables accounted for 99.1 percent of CLV prediction power, while demographics contributed only 0.9 percent, highlighting the importance of behavioural data in e-commerce analytics.
+
+
 ### Fraud Classification Model and Deployment
 ![model_deployment](model_deployment.png)
 
@@ -78,6 +88,10 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 
 
 ## Work Experience
+
+**Product Manager  @ Maestroverse (_October 2025 - Present_)**
+- Helping build a platform for collaboration between creative professionals.
+
   
 **Partner Support Volunteer  @ YouVersion (_June 2024 - Present_)**
 - Provided technical support to YouVersion users around the world, helping them navigate the Bible app and deepen their faith.
