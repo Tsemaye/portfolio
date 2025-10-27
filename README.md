@@ -15,7 +15,7 @@
 ## PYTHON ML Projects
 
 ### Behaviour Segmentation and Customer Lifetime Value Prediction in E-Commerce
-![model_deployment](model_deployment.png)
+![CLV](CLV.png)
 In this project, I analysed six and a half years of Amazon customer purchase data from 5,027 customers to identify key behavioural patterns and predict customer lifetime value (CLV).
 
 Using K-Means clustering, I grouped customers into two main archetypes: Occasional Buyers and High Value Loyalists, and validated the clusters using Silhouette Score, Calinski Harabasz Index, and Davies Bouldin Index.
