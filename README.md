@@ -1,6 +1,6 @@
-# Data Analyst | Product Manager
+# Data Analyst | Product Manager -- Program & Operations
 
-#### Technical Skills: SQL, Tableau, Excel, Python
+#### Skills: Program Execution, Process Design, Stakeholder Coordination, Data Analysis, Python, SQL, Tableau, Excel, Machine Learning, Data Visualization
 #### LinkedIn: linkedin.com/in/charisoneyemi
 #### Gmail: charisoneyemi@gmail.com
 #### GitHub: https://github.com/Tsemaye
