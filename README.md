@@ -1,4 +1,4 @@
-# Data Analyst | MSc Data Science Student
+# Data Analyst | Product Manager
 
 #### Technical Skills: SQL, Tableau, Excel, Python
 #### LinkedIn: linkedin.com/in/charisoneyemi
@@ -32,8 +32,6 @@ Key Steps:
 - Data Preparation: Processed a credit card transaction dataset to identify fraudulent activities.
 - Model Training: Trained multiple classifiers to detect fraud, optimizing them for accuracy and efficiency.
 - Model Evaluation: Compared model performances to determine the best approach.
-- Deployment: Built APIs using FastAPI and Flask to serve real-time fraud detection predictions.
-- Testing: Used Postman to validate the API responses.
 [Python Machine Learning Model](https://github.com/Tsemaye/Python-Machine-Learning)
 
 
