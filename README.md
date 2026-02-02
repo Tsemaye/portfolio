@@ -83,7 +83,7 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 - Helping build a platform for collaboration between creative professionals.
 
   
-**Partner Support Volunteer  @ YouVersion (_June 2024 - Present_)**
+**Partner Support Volunteer  @ YouVersion (_June 2024 - February 2026)**
 - Provided technical support to YouVersion users around the world, helping them navigate the Bible app and deepen their faith.
 
 - Troubleshooted app issues and answered user questions in a clear, concise, and patient manner.
@@ -93,7 +93,7 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 - Supported a diverse community by providing technical support to diverse cultures to help them navigate the Bible app and deepen their faith.
 
  
-**NYSC Basic Technology Instructor/Teacher  @ Government of Nigeria - NYSC (_June 2022 - May 2023_)**
+**Basic Technology Instructor/Teacher  @ National Youth Service Corps (_June 2022 - May 2023_)**
 - Cultivated a positive and collaborative classroom environment, promoting a conducive learning atmosphere.
 
 - Delivered comprehensive instruction to over 200 students on basic technology concepts and skills.
