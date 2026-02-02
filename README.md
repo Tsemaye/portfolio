@@ -80,8 +80,13 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 ## Work Experience
 
 **Product Manager  @ Maestroverse (_October 2025 - Present_)**
-- Helping build a platform for collaboration between creative professionals.
+Early-stage, pre-user startup focused on building a collaboration platform for creative professionals.
 
+- Supported early-stage product execution by translating high-level ideas into structured internal workflows, documentation, and success criteria
+
+- Contributed to operational planning and coordination to support experimentation and iterative development
+
+- Worked closely with a small cross-functional team to maintain execution clarity amid changing requirements and evolving priorities
   
 **Partner Support Volunteer  @ YouVersion (_June 2024 - February 2026)**
 - Provided technical support to YouVersion users around the world, helping them navigate the Bible app and deepen their faith.
