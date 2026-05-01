@@ -1,4 +1,4 @@
-# Data Analyst | Product Manager -- Program & Operations
+# Data Analyst & Operations Associate | MSc Data Science | SQL · Python · Tableau
 
 #### Skills: Program Execution, Process Design, Stakeholder Coordination, Data Analysis, Python, SQL, Tableau, Excel, Machine Learning, Data Visualization
 #### LinkedIn: linkedin.com/in/charisoneyemi
@@ -79,39 +79,20 @@ This portfolio section showcases a series of SQL queries and data analysis techn
 
 ## Work Experience
 
-**Product Manager  @ Maestroverse (_October 2025 - Present_)**
-Early-stage, pre-user startup focused on building a collaboration platform for creative professionals.
+**Product & Operations Associate  @ Maestroverse (_October 2025 - Present_)**
+Coordinated cross-functional execution across engineering, design, and social media teams in a pre-launch startup environment. Built and maintained internal documentation, workflows, and knowledge systems in Notion to support structured decision-making. Defined success criteria and tracked execution against milestones, flagging risks and driving resolution across teams. Served as the primary communication bridge between the founder and all functional teams, ensuring clarity and accountability on priorities.
 
-- Supported early-stage product execution by translating high-level ideas into structured internal workflows, documentation, and success criteria
-
-- Contributed to operational planning and coordination to support experimentation and iterative development
-
-- Worked closely with a small cross-functional team to maintain execution clarity amid changing requirements and evolving priorities
   
 **Partner Support Volunteer  @ YouVersion (_June 2024 - February 2026)**
-- Provided technical support to YouVersion users around the world, helping them navigate the Bible app and deepen their faith.
-
-- Troubleshooted app issues and answered user questions in a clear, concise, and patient manner.
-
-- Contributed to a positive user experience by ensuring users could effectively utilize YouVersion's features for daily Bible study and devotionals.
-
-- Supported a diverse community by providing technical support to diverse cultures to help them navigate the Bible app and deepen their faith.
+Analyzed 250+ recurring user inquiries to identify patterns and surface insights that improved internal support workflows. Synthesized user feedback into structured reports communicated to internal teams for process improvement. Maintained documentation and knowledge systems to improve response quality and operational efficiency.
 
  
 **Basic Technology Instructor/Teacher  @ National Youth Service Corps (_June 2022 - May 2023_)**
-- Cultivated a positive and collaborative classroom environment, promoting a conducive learning atmosphere.
-
-- Delivered comprehensive instruction to over 200 students on basic technology concepts and skills.
-
-- Collaborated with colleagues and parents, facilitating effective communication and contributing to student development.
-
-- Guided students in utilizing educational websites and search engines for homework and projects.
+Communicated technical concepts clearly to non-technical audiences and iterated on delivery based on feedback. Managed scheduling, resources, and operations for a structured learning environment of 200+ students.
 
 
 **Administrative Intern @ Quantum Business School (_June 2020 - Nov 2020_)**
-- Supported administrative tasks, including filing, document preparation, and office organization.
-- Scheduled and managed appointments to ensure smooth daily operations.
-- Responded to customer inquiries and provided general office assistance.
-- Assisted with day-to-day office workflow, contributing to a productive work environment.
+Supported day-to-day administrative operations including scheduling, documentation, and process coordination. Identified inefficiencies in client scheduling and implemented workflow improvements that increased operational efficiency.
+
 
 Isaiah 60
