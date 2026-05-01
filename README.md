@@ -1,4 +1,4 @@
-# Data Analyst & Operations Associate | MSc Data Science | SQL · Python · Tableau
+# Data Analyst & Operations Associate | MSc Data Science 
 
 #### Skills: Program Execution, Process Design, Stakeholder Coordination, Data Analysis, Python, SQL, Tableau, Excel, Machine Learning, Data Visualization
 #### LinkedIn: linkedin.com/in/charisoneyemi
