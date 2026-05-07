@@ -46,6 +46,11 @@ Analyzed churn behavior across 7,000+ telecom customers to identify onboarding f
 
 #### Full Case Study
 View the full breakdown and recommendations here:
+• https://drive.google.com/file/d/1YFGWGgIegadBB__hNtyPq89vyoz40_ar/view?usp=sharing
+
+• https://public.tableau.com/views/TheChurnProblem/TheChurnProblem?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+•  https://public.tableau.com/views/CustomerChurnAnalysisWhereandWhyithappens/WhereWhyItHappens?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
