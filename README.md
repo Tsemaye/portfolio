@@ -108,7 +108,7 @@ Wrote SQL queries using JOINs, CASE statements, GROUP BY, aggregations, and filt
 Coordinated cross-functional execution across engineering, design, and social media teams in a pre-launch startup environment. Built and maintained internal documentation, workflows, and knowledge systems in Notion to support structured decision-making. Defined success criteria and tracked execution against milestones, flagging risks and driving resolution across teams. Served as the primary communication bridge between the founder and all functional teams, ensuring clarity and accountability on priorities.
 
   
-**Partner Support Volunteer  @ YouVersion (_June 2024 - February 2026)**
+**Partner Support Volunteer  @ YouVersion (_June 2024 - February 2025_)** 
 Analyzed 250+ recurring user inquiries to identify patterns and surface insights that improved internal support workflows. Synthesized user feedback into structured reports communicated to internal teams for process improvement. Maintained documentation and knowledge systems to improve response quality and operational efficiency.
 
  
