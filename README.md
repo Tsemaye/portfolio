@@ -1,6 +1,6 @@
-# Data Analyst & Operations Associate | MSc Data Science 
+# Product Operations & Analytics | MSc Data Science 
 
-#### Skills: Program Execution, Process Design, Stakeholder Coordination, Data Analysis, Python, SQL, Tableau, Excel, Machine Learning, Data Visualization
+#### Skills: Product Operations, Growth Analytics, Cross-Functional Execution, Stakeholder Communication, SQL, Python (Pandas, Scikit-Learn), Tableau, Data Visualization, Cohort Analysis, Retention Analysis, Customer Segmentation, Dashboard Development, Process Design, KPI Tracking, Workflow Documentation, Experimentation Thinking
 #### LinkedIn: linkedin.com/in/charisoneyemi
 #### Gmail: charisoneyemi@gmail.com
 #### GitHub: https://github.com/Tsemaye
@@ -12,26 +12,44 @@
 - BSc Management Information System | Covenant University (2017-2022)
 
 
-## PYTHON ML Projects
+## Product & Analytics Projects
+### Customer Churn & Retention Analysis
+#### PostgreSQL • Tableau • Python
+Analyzed churn behavior across 7,000+ telecom customers to identify onboarding failures, retention risks, and feature adoption patterns affecting customer retention.
+![The Churn Problem](The Churn Problem.png)
+
+#### Key Insights
+• New customers churned at 56.8%
+• Month-to-month users churned 18x more than long-term contract users
+• Customers with low satisfaction scores consistently churned
+• Retention improved significantly after long-term commitment
+
+![Where and Why it happens.png](Where and Why it happens.png)
+
+#### What I Explored
+• Cohort retention analysis
+• Feature adoption patterns
+• Customer risk segmentation
+• Offer effectiveness
+• Contract behavior analysis
+
+#### Full Case Study
+View the full breakdown and recommendations here:
 
 
 ### Fraud Classification Model and Deployment
 ![model_deployment](model_deployment.png)
 
-For this project, I developed and deployed a fraud classification model using multiple machine learning models, including Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Naïve Bayes, Multi-Layer Perceptron (MLP), and XGBoost.
-
-Key Steps:
-- Data Preparation: Processed a credit card transaction dataset to identify fraudulent activities.
-- Model Training: Trained multiple classifiers to detect fraud, optimizing them for accuracy and efficiency.
-- Model Evaluation: Compared model performances to determine the best approach.
+Built and compared multiple ML models (XGBoost, SVM, KNN, MLP) for fraud classification and evaluated performance trade-offs across financial transaction data.
 [Python Machine Learning Model](https://github.com/Tsemaye/Python-Machine-Learning)
 
 
-## TABLEAU Projects
+## Additional Projects
+
 ### Retail Sales Data Analysis: A First Glance
 ![Retail Sales Data Analysis](Retail Sales Data Analysis.png)
 
-As part of the HNG data analytics internship, we were tasked with exploring a dataset and writing a technical report based on our findings. I chose the Retail Sales Dataset available on Kaggle, and the goal was to examine the data, identify initial trends, and communicate these findings effectively. This report presents my observations and initial analysis using a Tableau dashboard created to visualize the key aspects of the data.
+Exploratory Tableau dashboard analyzing retail sales trends, customer behavior, and operational performance metrics.
 [Retail Sales Data Analysis](https://charisoneyemi.wordpress.com/2024/06/28/retail-sales-data-analysis-a-first-glance-2/)
 
 ### Video Game Analysis
@@ -40,41 +58,36 @@ As part of the HNG data analytics internship, we were tasked with exploring a da
 [Video Games Sales Analysis Dashboard.png
 ](https://github.com/Tsemaye/portfolio/blob/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
 
-My portfolio delves into the analysis of the video game industry, exploring various dimensions such as top publishers by sales, global sales trends over the years, and detailed sales distribution across different platforms and regions including Europe, North America, and Japan. Through this analysis, I provide insights into market dynamics, platform preferences, and regional variations.
+Analyzed global video game sales trends across publishers, platforms, genres, and regions using Tableau dashboards. Explored market performance patterns and regional differences in consumer behavior.
 [[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 ](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/VideoGameAnalysis_17101490196120/VideoGamesSalesAnalysisDashboard)
 
 ### Legal Services Analysis
 ![Law Dashboard](Law Dashboard.png)
 
-The Legal Services Analysis dashboard shows the data of a sample company which specialises in legal services.
+Built an operational dashboard for a legal services company to track performance metrics, workflow activity, and business operations for decision-making support.
 [Legal Services Analysis](https://public.tableau.com/views/LawDashboard_17108603340770/Dashboard1)
 
 
-## EXCEL Projects
 ### Accident Data Analysis
 [![Accident Dashboard](Accident Dashboard.png)
 ](https://github.com/Tsemaye/portfolio/blob/main/Accident%20Dashboard.png)
 
-Within this section of my portfolio, I present a detailed analysis of accident data, covering various dimensions such as accident severity, date, month, and year of occurrence, geographical location (latitude and longitude), light conditions, district area, number of casualties and vehicles involved, road surface conditions, road type, urban or rural area classification, weather conditions, and vehicle type. By examining these variables, I offer valuable insights into the patterns and factors contributing to accidents, facilitating a deeper understanding of road safety dynamics. This analysis aims to inform policy-making, urban planning, and public safety initiatives by identifying trends, risk factors, and potential interventions to mitigate the impact of accidents on communities and individuals.
-
+Explored accident trends across geography, road conditions, weather, and vehicle types to identify factors influencing accident severity and road safety outcomes.
 https://bit.ly/3uZrrTk
 
 
 ### Coffee Sales Analysis
 ![Coffee Sales Dashboard](Coffee Sales Dashboard.png)
 
-Within this section of my portfolio, I delve into the detailed analysis of coffee sales data, encompassing various aspects such as product ID, coffee type, roast type, size... This analysis provides valuable insights for coffee businesses, retailers, and distributors to optimize their product offerings, pricing strategies, and marketing initiatives, ultimately enhancing customer satisfaction and driving business growth within the coffee industry.
-
+Analyzed coffee sales performance across product categories, roast types, sizes, and customer segments to uncover sales trends and business opportunities.
 https://bit.ly/3IyZ0Pe
 
-## SQL Projects
 ### Employee Data Analysis
 
 https://github.com/Tsemaye/SQL
 
-This portfolio section showcases a series of SQL queries and data analysis techniques applied to employee demographics and salary data. The queries retrieve specific subsets of data, perform data manipulation and aggregation, and utilize functions like JOIN, GROUP BY, and CASE statements to derive insights such as age distributions, gender ratios, job title frequencies, and salary adjustments. Through these queries, the portfolio demonstrates proficiency in SQL query writing, data filtering, aggregation, and transformation, highlighting the ability to extract meaningful insights from datasets and support data-driven decision-making processes.
-
+Wrote SQL queries using JOINs, CASE statements, GROUP BY, aggregations, and filtering techniques to analyze employee demographics, salaries, and workforce trends.
 
 
 ## Work Experience
