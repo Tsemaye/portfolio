@@ -11,7 +11,7 @@
 - MSc Data Science | Pan Atlantic University (2024-2025)
 - BSc Management Information System | Covenant University (2017-2022)
 
----
+
 
 ## Product & Analytics Projects
 ### Customer Churn & Retention Analysis
@@ -22,8 +22,11 @@ Analyzed churn behavior across 7,000+ telecom customers to identify onboarding f
 
 #### Key Insights
 • New customers churned at 56.8%
+
 • Month-to-month users churned 18x more than long-term contract users
+
 • Customers with low satisfaction scores consistently churned
+
 • Retention improved significantly after long-term commitment
 
 
@@ -31,9 +34,13 @@ Analyzed churn behavior across 7,000+ telecom customers to identify onboarding f
 
 #### What I Explored
 • Cohort retention analysis
+
 • Feature adoption patterns
+
 • Customer risk segmentation
+
 • Offer effectiveness
+
 • Contract behavior analysis
 
 
