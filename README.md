@@ -5,17 +5,19 @@
 #### Gmail: charisoneyemi@gmail.com
 #### GitHub: https://github.com/Tsemaye
 
-
+---
 
 ## Education
 - MSc Data Science | Pan Atlantic University (2024-2025)
 - BSc Management Information System | Covenant University (2017-2022)
 
+---
 
 ## Product & Analytics Projects
 ### Customer Churn & Retention Analysis
-#### PostgreSQL • Tableau • Python
+#### PostgreSQL • Tableau 
 Analyzed churn behavior across 7,000+ telecom customers to identify onboarding failures, retention risks, and feature adoption patterns affecting customer retention.
+
 ![The Churn Problem](The Churn Problem.png)
 
 #### Key Insights
@@ -23,6 +25,7 @@ Analyzed churn behavior across 7,000+ telecom customers to identify onboarding f
 • Month-to-month users churned 18x more than long-term contract users
 • Customers with low satisfaction scores consistently churned
 • Retention improved significantly after long-term commitment
+
 
 ![Where and Why it happens.png](Where and Why it happens.png)
 
@@ -33,9 +36,11 @@ Analyzed churn behavior across 7,000+ telecom customers to identify onboarding f
 • Offer effectiveness
 • Contract behavior analysis
 
+
 #### Full Case Study
 View the full breakdown and recommendations here:
 
+---
 
 ### Fraud Classification Model and Deployment
 ![model_deployment](model_deployment.png)
