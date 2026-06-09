@@ -1,4 +1,4 @@
-# Product Operations & Analytics | MSc Data Science 
+# Product Management & Analytics | MSc Data Science 
 
 #### Skills: Product Operations, Growth Analytics, Cross-Functional Execution, Stakeholder Communication, SQL, Python (Pandas, Scikit-Learn), Tableau, Data Visualization, Cohort Analysis, Retention Analysis, Customer Segmentation, Dashboard Development, Process Design, KPI Tracking, Workflow Documentation, Experimentation Thinking
 #### LinkedIn: linkedin.com/in/charisoneyemi
@@ -106,7 +106,7 @@ Wrote SQL queries using JOINs, CASE statements, GROUP BY, aggregations, and filt
 
 ## Work Experience
 
-**Product & Operations Associate  @ Maestroverse (_October 2025 - Present_)**
+**Product Manager  @ Maestroverse (_October 2025 - Present_)**
 Coordinated cross-functional execution across engineering, design, and social media teams in a pre-launch startup environment. Built and maintained internal documentation, workflows, and knowledge systems in Notion to support structured decision-making. Defined success criteria and tracked execution against milestones, flagging risks and driving resolution across teams. Served as the primary communication bridge between the founder and all functional teams, ensuring clarity and accountability on priorities.
 
   
