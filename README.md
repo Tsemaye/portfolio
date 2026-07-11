@@ -1,6 +1,11 @@
-# Product Management & Analytics | MSc Data Science 
+# Turning User Data Into Product Decisions
 
-#### Skills: Product Operations, Growth Analytics, Cross-Functional Execution, Stakeholder Communication, SQL, Python (Pandas, Scikit-Learn), Tableau, Data Visualization, Cohort Analysis, Retention Analysis, Customer Segmentation, Dashboard Development, Process Design, KPI Tracking, Workflow Documentation, Experimentation Thinking
+### Product Manager | MSc Data Science
+
+With a background spanning **telecom analytics**, **early-stage startup execution**, and an **MSc in Data Science**, I turn messy user behavior data into onboarding fixes, retention strategies, and product roadmaps that align user needs with business outcomes. I work across the full loop — from SQL and Python analysis to stakeholder-facing dashboards to the product decisions that follow.
+
+#### Core skills: Product Operations, Growth Analytics, Cross-Functional Execution, Stakeholder Communication, SQL, Python (Pandas, Scikit-Learn), Tableau, Cohort & Retention Analysis, Customer Segmentation, Dashboard Development, KPI Tracking, Experimentation Thinking
+
 #### LinkedIn: linkedin.com/in/charisoneyemi
 #### Gmail: charisoneyemi@gmail.com
 #### GitHub: https://github.com/Tsemaye
@@ -16,7 +21,7 @@
 ## Product & Analytics Projects
 ### Customer Churn & Retention Analysis
 #### PostgreSQL • Tableau 
-Analyzed churn behavior across 7,000+ telecom customers to identify onboarding failures, retention risks, and feature adoption patterns affecting customer retention.
+I used a public telecom dataset (7,000+ customer records) to practice a real product-analytics workflow: finding why customers churn, not just that they churn. The analysis traced the biggest losses back to weak onboarding and short-term contract structures.
 
 ![The Churn Problem](The Churn Problem.png)
 
@@ -54,7 +59,7 @@ Analyzed churn behavior across 7,000+ telecom customers to identify onboarding f
 ### Fraud Classification Model and Deployment
 ![model_deployment](model_deployment.png)
 
-Built and compared multiple ML models (XGBoost, SVM, KNN, MLP) for fraud classification and evaluated performance trade-offs across financial transaction data.
+Fraud detection is fundamentally a trade-off problem between false positives and missed fraud. Using a public financial transactions dataset, I built and stress-tested five classification approaches (XGBoost, SVM, KNN, MLP) to compare their trade-offs, then deployed the strongest one as a working API.
 [Python Machine Learning Model](https://github.com/Tsemaye/Python-Machine-Learning)
 
 
@@ -63,7 +68,7 @@ Built and compared multiple ML models (XGBoost, SVM, KNN, MLP) for fraud classif
 ### Retail Sales Data Analysis: A First Glance
 ![Retail Sales Data Analysis](Retail Sales Data Analysis.png)
 
-Exploratory Tableau dashboard analyzing retail sales trends, customer behavior, and operational performance metrics.
+Practiced building an exploratory Tableau dashboard on public retail sales data — surfacing revenue patterns by product line, region, and season the way I would for a real stakeholder-facing report.
 [Retail Sales Data Analysis](https://charisoneyemi.wordpress.com/2024/06/28/retail-sales-data-analysis-a-first-glance-2/)
 
 ### Video Game Analysis
@@ -72,14 +77,14 @@ Exploratory Tableau dashboard analyzing retail sales trends, customer behavior, 
 [Video Games Sales Analysis Dashboard.png
 ](https://github.com/Tsemaye/portfolio/blob/main/Video%20Games%20Sales%20Analysis%20Dashboard.png)
 
-Analyzed global video game sales trends across publishers, platforms, genres, and regions using Tableau dashboards. Explored market performance patterns and regional differences in consumer behavior.
+Used a public global video game sales dataset to explore how regional markets differ — a title that dominates in Japan can flop in North America — and broke down sales by publisher, platform, and genre to map where those gaps show up.
 [[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 ](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/VideoGameAnalysis_17101490196120/VideoGamesSalesAnalysisDashboard)
 
 ### Legal Services Analysis
 ![Law Dashboard](Law Dashboard.png)
 
-Built an operational dashboard for a legal services company to track performance metrics, workflow activity, and business operations for decision-making support.
+Built a mock operational dashboard for a legal services use case, tracking performance metrics, workflow activity, and billing — practicing the kind of reporting that helps leadership spot bottlenecks and make staffing decisions.
 [Legal Services Analysis](https://public.tableau.com/views/LawDashboard_17108603340770/Dashboard1)
 
 
@@ -87,21 +92,21 @@ Built an operational dashboard for a legal services company to track performance
 [![Accident Dashboard](Accident Dashboard.png)
 ](https://github.com/Tsemaye/portfolio/blob/main/Accident%20Dashboard.png)
 
-Explored accident trends across geography, road conditions, weather, and vehicle types to identify factors influencing accident severity and road safety outcomes.
+Used a public road accident dataset to practice identifying which conditions — geography, weather, vehicle type — most reliably predicted accident severity, the kind of analysis that informs real safety prioritization.
 https://bit.ly/3uZrrTk
 
 
 ### Coffee Sales Analysis
 ![Coffee Sales Dashboard](Coffee Sales Dashboard.png)
 
-Analyzed coffee sales performance across product categories, roast types, sizes, and customer segments to uncover sales trends and business opportunities.
+Analyzed a public coffee sales dataset across product categories, roast types, and customer segments to practice surfacing which combinations actually drive revenue versus which just look busy.
 https://bit.ly/3IyZ0Pe
 
 ### Employee Data Analysis
 
 https://github.com/Tsemaye/SQL
 
-Wrote SQL queries using JOINs, CASE statements, GROUP BY, aggregations, and filtering techniques to analyze employee demographics, salaries, and workforce trends.
+Practiced SQL (JOINs, CASE statements, GROUP BY, aggregations, filtering) on a public employee dataset to explore demographics, salary bands, and tenure trends.
 
 
 ## Work Experience
@@ -110,7 +115,7 @@ Wrote SQL queries using JOINs, CASE statements, GROUP BY, aggregations, and filt
 Coordinated cross-functional execution across engineering, design, and social media teams in a pre-launch startup environment. Built and maintained internal documentation, workflows, and knowledge systems in Notion to support structured decision-making. Defined success criteria and tracked execution against milestones, flagging risks and driving resolution across teams. Served as the primary communication bridge between the founder and all functional teams, ensuring clarity and accountability on priorities.
 
   
-**Partner Support Volunteer  @ YouVersion (_June 2024 - February 2025_)** 
+**Partner Support Volunteer  @ YouVersion (_June 2024 - February 2026_)**
 Analyzed 250+ recurring user inquiries to identify patterns and surface insights that improved internal support workflows. Synthesized user feedback into structured reports communicated to internal teams for process improvement. Maintained documentation and knowledge systems to improve response quality and operational efficiency.
 
  
