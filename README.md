@@ -65,13 +65,13 @@ Fraud detection is fundamentally a trade-off problem between false positives and
 
 ## Additional Projects
 
-### Retail Sales Data Analysis: A First Glance
+### Retail Sales Trends by Region & Product Line
 ![Retail Sales Data Analysis](Retail Sales Data Analysis.png)
 
 Practiced building an exploratory Tableau dashboard on public retail sales data — surfacing revenue patterns by product line, region, and season the way I would for a real stakeholder-facing report.
 [Retail Sales Data Analysis](https://charisoneyemi.wordpress.com/2024/06/28/retail-sales-data-analysis-a-first-glance-2/)
 
-### Video Game Analysis
+### Video Game Market Analysis by Platform & Region
 ![Video Games Sales Analysis Dashboard](Video Games Sales Analysis Dashboard.png)
 
 [Video Games Sales Analysis Dashboard.png
@@ -81,14 +81,14 @@ Used a public global video game sales dataset to explore how regional markets di
 [[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 ](https://public.tableau.com/app/profile/charis.oneyemi7497/viz/VideoGameAnalysis_17101490196120/VideoGamesSalesAnalysisDashboard)
 
-### Legal Services Analysis
+### Legal Services Operations Dashboard
 ![Law Dashboard](Law Dashboard.png)
 
 Built a mock operational dashboard for a legal services use case, tracking performance metrics, workflow activity, and billing — practicing the kind of reporting that helps leadership spot bottlenecks and make staffing decisions.
 [Legal Services Analysis](https://public.tableau.com/views/LawDashboard_17108603340770/Dashboard1)
 
 
-### Accident Data Analysis
+### Road Accident Trends by Region & Condition
 [![Accident Dashboard](Accident Dashboard.png)
 ](https://github.com/Tsemaye/portfolio/blob/main/Accident%20Dashboard.png)
 
@@ -96,13 +96,13 @@ Used a public road accident dataset to practice identifying which conditions —
 https://bit.ly/3uZrrTk
 
 
-### Coffee Sales Analysis
+### Coffee Sales Trends by Product & Segment
 ![Coffee Sales Dashboard](Coffee Sales Dashboard.png)
 
 Analyzed a public coffee sales dataset across product categories, roast types, and customer segments to practice surfacing which combinations actually drive revenue versus which just look busy.
 https://bit.ly/3IyZ0Pe
 
-### Employee Data Analysis
+### Employee Data Analysis (SQL)
 
 https://github.com/Tsemaye/SQL
 
