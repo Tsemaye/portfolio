@@ -123,7 +123,7 @@ Analyzed 250+ recurring user inquiries to identify patterns and surface insights
 Communicated technical concepts clearly to non-technical audiences and iterated on delivery based on feedback. Managed scheduling, resources, and operations for a structured learning environment of 200+ students.
 
 
-**Administrative Intern @ Quantum Business School (_June 2020 - Nov 2020_)**
+**Administrative Coordinator @ Quantum Business School (_June 2020 - Nov 2020_)**
 Supported day-to-day administrative operations including scheduling, documentation, and process coordination. Identified inefficiencies in client scheduling and implemented workflow improvements that increased operational efficiency.
 
 
