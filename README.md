@@ -111,7 +111,7 @@ Practiced SQL (JOINs, CASE statements, GROUP BY, aggregations, filtering) on a p
 
 ## Work Experience
 
-**Product Manager  @ Maestroverse (_October 2025 - Present_)**
+**Product Operations Manager  @ Maestroverse (_October 2025 - Present_)**
 Coordinated cross-functional execution across engineering, design, and social media teams in a pre-launch startup environment. Built and maintained internal documentation, workflows, and knowledge systems in Notion to support structured decision-making. Defined success criteria and tracked execution against milestones, flagging risks and driving resolution across teams. Served as the primary communication bridge between the founder and all functional teams, ensuring clarity and accountability on priorities.
 
   
