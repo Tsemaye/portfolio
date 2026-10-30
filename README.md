@@ -1,6 +1,6 @@
 # Turning User Data Into Product Decisions
 
-### Product Manager | MSc Data Science
+### Product Operations Manager | MSc Data Science
 
 With a background spanning **telecom analytics**, **early-stage startup execution**, and an **MSc in Data Science**, I turn messy user behavior data into onboarding fixes, retention strategies, and product roadmaps that align user needs with business outcomes. I work across the full loop — from SQL and Python analysis to stakeholder-facing dashboards to the product decisions that follow.
 
